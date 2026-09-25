@@ -1,0 +1,9 @@
+# The compiled program (made by "make")
+sudoku
+
+# Pictures made each time the program runs
+puzzle.svg
+solution.svg
+
+# macOS folder clutter
+.DS_Store
