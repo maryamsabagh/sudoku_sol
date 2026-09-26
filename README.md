@@ -1,4 +1,4 @@
-# 9x9 Sudoku Generator and Solver (beginner version, with SVG pictures)
+# 9x9 Sudoku Generator and Solver 
 
 A short C++ program that makes a new random Sudoku puzzle, solves it, and saves
 both as pictures. It is split into a few small files, each with one job, and is
