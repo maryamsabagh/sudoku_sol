@@ -43,7 +43,7 @@ a `.cpp` file (the code that makes them work).
 Reading order for learning the code: `board.h`, `rules.cpp`, `solver.cpp`,
 `generator.cpp`, `board.cpp`, then `main.cpp`.
 
-## Ideas to explain it out loud
+## Some useful things to know
 
 - The board is a 2D array: `board[row][col]`, with `0` meaning empty.
 - `main` keeps two boards: `puzzle` (never changed) and `board` (a copy that
